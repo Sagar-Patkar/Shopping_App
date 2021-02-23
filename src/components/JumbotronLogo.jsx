@@ -8,7 +8,7 @@ const JumbotronLogo = () => {
         <h1 className="jumbotronH">New Arrivals</h1>
         <p className="jumbotronP">just dropped</p>
         <p>
-          <Button className="px-4" variant="primary" size="lg">
+          <Button className="px-2" variant="danger">
             Shop All New
           </Button>
         </p>

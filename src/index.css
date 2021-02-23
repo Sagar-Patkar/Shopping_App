@@ -21,3 +21,18 @@
   background-position: center;
   height: 90vh;
 }
+.cardH {
+  margin-top: 3%;
+}
+.cardP {
+  font-family: "Architects Daughter", cursive;
+  color: #f0f485;
+  font-size: 1.6rem;
+}
+.card {
+  background-image: url("");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 6%;
+  border: none;
+}

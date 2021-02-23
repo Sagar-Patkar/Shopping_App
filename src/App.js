@@ -4,8 +4,9 @@ import HomeScreen from "./screens/HomeScreen.jsx";
 const App = () => {
   return (
     <>
-      <HomeScreen />
-      <main></main>
+      <main>
+        <HomeScreen />
+      </main>
     </>
   );
 };

@@ -1,5 +1,5 @@
 import React from "react";
-import { Nav, Navbar, NavDropdown } from "react-bootstrap";
+import { Nav, Navbar } from "react-bootstrap";
 const NavbarLogo = () => {
   return (
     <div>
@@ -25,10 +25,10 @@ const NavbarLogo = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-3">
             <Nav.Link style={{ paddingRight: "40px" }} href="#">
-              <i className="fas fa-gift"></i>
+              <i className="fas fa-gift fa-2x"></i>
             </Nav.Link>
             <Nav.Link href="#">
-              <i className="fas fa-shopping-cart"></i>
+              <i className="fas fa-shopping-cart fa-2x"></i>
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
