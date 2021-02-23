@@ -4,6 +4,7 @@ import NavbarCategories from "../components/NavbarCategories.jsx";
 import JumbotronLogo from "../components/JumbotronLogo.jsx";
 import Section2 from "../components/Section2.jsx";
 import Product from "../components/Product.jsx";
+import Section3 from "../components/Section3.jsx";
 import { Container } from "react-bootstrap";
 
 const HomeScreen = () => {
@@ -16,6 +17,7 @@ const HomeScreen = () => {
           <JumbotronLogo />
           <Section2 />
           <Product />
+          <Section3 />
         </Container>
       </main>
     </div>
