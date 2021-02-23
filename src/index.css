@@ -32,3 +32,25 @@
   margin-bottom: 6%;
   border: none;
 }
+.footer {
+  padding: 25px 0;
+  background-color: #202020;
+  color: azure;
+}
+.footerH {
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+.footerLink {
+  color: white;
+}
+.footerLink:hover {
+  color: white;
+}
+.footerLogo {
+  font-size: 2.3rem;
+  margin-right: 8%;
+}
+.copyright {
+  padding-top: 24px;
+}

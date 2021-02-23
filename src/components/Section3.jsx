@@ -1,5 +1,5 @@
 import React from "react";
-import { Container } from "react-bootstrap";
+import { Container, Button } from "react-bootstrap";
 
 const Section3 = () => {
   return (
@@ -31,6 +31,9 @@ const Section3 = () => {
           COME SEE WHY DRESS UP IS ONE OF THE FASTEST GROWING ONLINE DRESS
           BOUTIQUES IN THE UNITED STATES!
         </p>
+        <div className="text-center my-3">
+          <Button variant="primary">Shop Our Newest Arrivals</Button>
+        </div>
       </Container>
     </div>
   );
