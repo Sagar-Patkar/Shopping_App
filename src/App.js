@@ -1,7 +1,13 @@
 import React from "react";
+import HomeScreen from "./screens/HomeScreen.jsx";
 
 const App = () => {
-  return <div>Welcome</div>;
+  return (
+    <>
+      <HomeScreen />
+      <main></main>
+    </>
+  );
 };
 
 export default App;
